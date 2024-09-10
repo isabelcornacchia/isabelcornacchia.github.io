@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD student in Computational Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -117,6 +117,6 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student at the University of Edinburgh, supervised by Angus Chadwick. My research is broadly focused on models of recurrent neural networks as dynamical systems to study neural computations.
+I am a PhD student at the University of Edinburgh, supervised by [Angus Chadwick](https://homepages.inf.ed.ac.uk/achadwic/). My research is broadly focused on models of recurrent neural networks as dynamical systems to study neural computations.
 Currently, I am studying how information is encoded by neural populations and how this depends on the connectivity structure and dynamics of the networks. 
 {style="text-align: justify;"}
