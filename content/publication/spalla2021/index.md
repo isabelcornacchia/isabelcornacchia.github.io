@@ -10,7 +10,7 @@ date: "2021-09-01T00:00:00Z"
 doi: "https://doi.org/10.7554/eLife.69499"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*eLife*"
 publication_short: ""
 
 abstract: ""
@@ -31,8 +31,8 @@ tags:
 featured: true
 
 # links:
-# - name: ""
-#   url: ""
+- name: ""
+  url: ""
 url_pdf: https://elifesciences.org/articles/69499
 url_code: ''
 url_dataset: ''
@@ -64,7 +64,7 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +72,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
