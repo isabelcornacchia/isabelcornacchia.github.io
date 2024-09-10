@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Isabel Maria Cornacchia
+title: Isabel M. Cornacchia
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -25,12 +25,13 @@ organizations:
     url: https://www.ed.ac.uk/informatics
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a PhD student in Computational Neuroscience with Angus Chadwick.
+bio: PhD student in Computational Neuroscience
 
 # Interests to show in About widget
 interests:
-  - Principles of Neural Circuit Computation
-  - 
+  - Dynamical systems
+  - Population coding and information
+  - Principles of neural circuit computation
 
 # Education to show in About widget
 education:
@@ -89,7 +90,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:isabel.cornacchia@ed.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/isabelmaria_c
@@ -116,5 +117,6 @@ social:
 highlight_name: true
 ---
 
-Isabel Cornacchia is ... confused
+I am a PhD student at the University of Edinburgh, supervised by Angus Chadwick. My research is broadly focused on models of recurrent neural networks as dynamical systems to study neural computations.
+Currently, I am studying how information is encoded by neural populations and how this depends on the connectivity structure and dynamics of the networks. 
 {style="text-align: justify;"}
