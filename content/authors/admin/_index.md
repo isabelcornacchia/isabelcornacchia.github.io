@@ -25,7 +25,7 @@ organizations:
     url: https://www.ed.ac.uk/informatics
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Computational Neuroscience
+bio: # PhD student in Computational Neuroscience
 
 # Interests to show in About widget
 interests:
