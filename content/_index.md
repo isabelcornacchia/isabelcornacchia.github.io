@@ -199,7 +199,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: compact #card
+      view: citation #compact
   # - block: collection
   #   content:
   #     title: Recent Publications
