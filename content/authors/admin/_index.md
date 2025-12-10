@@ -94,11 +94,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:icornacc@ic.ac.uk
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/isabelmaria-c.bsky.social
-    display:
-      header: true
+  # - icon: bluesky
+  #   icon_pack: fab
+  #   link: https://bsky.app/profile/isabelmaria-c.bsky.social
+  #   display:
+  #     header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack or `graduation-cap' from `fas`
     icon_pack: ai
     link: https://scholar.google.com/citations?user=saa7WyAAAAAJ&hl=en
