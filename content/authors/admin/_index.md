@@ -17,15 +17,18 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Computational Neuroscience
+role: Research associate
+#PhD student in Computational Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Informatics, University of Edinburgh
-    url: https://www.ed.ac.uk/informatics
+  - name: Imperial College London
+      url: https://www.imperial.ac.uk/bioengineering/
+  # - name: School of Informatics, University of Edinburgh
+  #   url: https://www.ed.ac.uk/informatics
 
 # Short bio (displayed in user profile at end of posts)
-bio: # PhD student in Computational Neuroscience
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -117,6 +120,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student at the University of Edinburgh, supervised by [Angus Chadwick](https://homepages.inf.ed.ac.uk/achadwic/). My research is broadly focused on models of recurrent neural networks as dynamical systems to study neural computations.
-Currently, I am studying how information is encoded by neural populations and how this depends on the connectivity structure and dynamics of the networks. 
+I am a computational neuroscience researcher currently working with [Claudia Clopath](https://cclopath.bg-research.cc.ic.ac.uk) at Imperial College London. Previously, I was a PhD student at the University of Edinburgh, supervised by [Angus Chadwick](https://homepages.inf.ed.ac.uk/achadwic/).
+
+My research is broadly focused on models of recurrent neural networks as dynamical systems to study neural computations. I am studying how information is encoded by neural populations and how this depends on the connectivity structure and dynamics of the networks. 
 {style="text-align: justify;"}
