@@ -23,7 +23,7 @@ role: Research associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Imperial College London
-      url: https://www.imperial.ac.uk/bioengineering/
+    url: https://www.imperial.ac.uk/bioengineering/
   # - name: School of Informatics, University of Edinburgh
   #   url: https://www.ed.ac.uk/informatics
 
@@ -93,11 +93,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:isabel.cornacchia@ed.ac.uk
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/isabelmaria_c
-    label: Follow me on Twitter
+    link: mailto:icornacc@ic.ac.uk
+  - icon: brands/bluesky
+    link: https://bsky.app/profile/isabelmaria-c.bsky.social
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack or `graduation-cap' from `fas`
@@ -106,6 +104,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/isabelcornacchia
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/isabelmaria_c
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
