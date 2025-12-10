@@ -11,13 +11,13 @@ last_name: Cornacchia
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Research associate
+role: Research Associate
 #PhD student in Computational Neuroscience
 
 # Organizations/Affiliations to show in About widget
