@@ -94,7 +94,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:icornacc@ic.ac.uk
-  - icon: brands/bluesky
+  - icon: bluesky
+    icon_pack: fab
     link: https://bsky.app/profile/isabelmaria-c.bsky.social
     display:
       header: true
@@ -124,7 +125,7 @@ social:
 highlight_name: true
 ---
 
-I am a computational neuroscience researcher currently working with [Claudia Clopath](https://cclopath.bg-research.cc.ic.ac.uk) at Imperial College London. Previously, I was a PhD student at the University of Edinburgh, supervised by [Angus Chadwick](https://homepages.inf.ed.ac.uk/achadwic/).
+I am a computational neuroscience researcher currently working with [Claudia Clopath](https://cclopath.bg-research.cc.ic.ac.uk) at Imperial College London. Previously, I was a PhD student supervised by [Angus Chadwick](https://homepages.inf.ed.ac.uk/achadwic/) at the University of Edinburgh.
 
 My research is broadly focused on models of recurrent neural networks as dynamical systems to study neural computations. I am studying how information is encoded by neural populations and how this depends on the connectivity structure and dynamics of the networks. 
 {style="text-align: justify;"}
